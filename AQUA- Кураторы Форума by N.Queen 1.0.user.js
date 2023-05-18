@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         AQUA| Кураторы Форума by N.Queen 1.0
 // @namespace    https://forum.blackrussia.online
-// @version      3.4
+// @version      1.0
 // @description  Queens family
 // @author       Nikita Queen
 // @match        https://forum.blackrussia.online/index.php?threads/*
 // @include      https://forum.blackrussia.online/index.php?threads/
 // @grant        none
-// @license 	 MIT// @collaborator Quenk269
+// @license 	 MIT
 // @icon https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/emerald-theme-manager-icon-icon.png
 // @updateURL
 // ==/UserScript==
